@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Gawiiiii
 - 👀 I’m interested in coding, biking, hiking, sleeping
-- 🌱 I’m currently learning Qt, Python, HTML
-- 💞️ I’m looking to collaborate on C++ Projects
-- 📫 How to reach me :
-- ljwhh123@outlook.com
+- 🌱 I’m currently learning Qt, Python, HTML，Matlab
+- 💞️ I’m looking to collaborate on C/C++ Projects
+- 📫 How to reach me : ljwhh123@outlook.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
